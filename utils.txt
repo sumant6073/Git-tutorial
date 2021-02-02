@@ -1,1 +1,2 @@
-utility fincions of version 1
+utility fincions of version 2
+
